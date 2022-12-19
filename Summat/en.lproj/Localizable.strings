@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  Summat
+
+  Created by Janne Lehikoinen on 7.4.2022.
+  
+*/
+
+// Calculator list
+"CalculatorList.Title" = "Summat";
+"CalculatorList.UserSections" = "My calculators";
+"CalculatorList.FactorySections" = "Built-in calculators";
+"CalculatorList.NoCalculatorsPlaceholder" = "No calculators";
+"CalculatorList.NoUserCalculatorsButton" = "Add a new calculator";
+"CalculatorList.NoFactoryCalculatorsButton" = "Restore built-in calculators";
+"CalculatorList.CopyAction" = "Copy";
+"CalculatorList.DeleteAction" = "Delete";
+"CalculatorList.Toolbar.New" = "New";
+"CalculatorList.Toolbar.Results" = "Results";
+"CalculatorList.Toolbar.Settings" = "Settings";
+"CalculatorList.DuplicateSuffix" = "copy";
+
+// Calculator list row
+"CalculatorListRow.NewCalculatorLabel" = "New";
+
+// Calculator edit
+"CalculatorEdit.PlaceholderName" = "Calculator name";
+"CalculatorEdit.TitleNewCalculator" = "New calculator";
+"CalculatorEdit.TitleEditCalculator" = "Edit calculator";
+"CalculatorEdit.NumberOfButtons %lld" = "Number of buttons: %lld";
+"CalculatorEdit.SaveButton" = "Save";
+"CalculatorEdit.CancelButton" = "Cancel";
+
+// Calculator
+"Calculator.FooterButtons.Reset" = "Reset";
+"Calculator.FooterButtons.ResetConfirmation" = "Reset result?";
+"Calculator.FooterButtons.Undo" = "Undo";
+"Calculator.FooterButtons.Save" = "Save";
+"Calculator.FooterButtons.SaveConfirmation" = "Save result?";
+"Calculator.Toolbar.Order" = "Order";
+"Calculator.Toolbar.Edit" = "Edit";
+
+// Result list
+"ResultList.Title" = "Results";
+"ResultList.NoResultsPlaceholder" = "No saved results";
+"ResultList.PlaceholderSaveName" = "My result";
+"ResultList.DeleteButton" = "Delete";
+
+// Result detail
+"ResultDetail.Header.Name" = "Name";
+"ResultDetail.PlaceholderName" = "Add name";
+"ResultDetail.Header.Result" = "Result";
+"ResultDetail.Header.CalculationElements" = "Numbers";
+"ResultDetail.Header.Comment" = "Comment";
+"ResultDetail.SaveButton" = "Save";
+
+// Settings
+"Settings.Title" = "Settings";
+"Settings.Header.CalculatorSettings" = "Calculator settings";
+"Settings.Header.FactorySettings" = "App settings";
+"Settings.Header.AppInfo" = "App information";
+"Settings.ButtonSounds" = "Button sounds";
+"Settings.HapticFeedback" = "Haptic feedback";
+"Settings.CalculatorEntranceAnimation" = "Entrance animation";
+"Settings.Version" = "Version";
+"Settings.FactoryRestoreButton" = "Restore built-in calculators";
+"Settings.FactoryRestoreConfirmationDescription" = "Restore calculators?";
+"Settings.FactoryRestoreConfirmationButton" = "Restore";
+
+// Factory calculators
+"FactoryCalculators.Fortuna" = "✨ Fortuna";
+"FactoryCalculators.ThrowThePigGame" = "🐖 Pass the Pigs";
+"FactoryCalculators.FinnishDarts" = "🎯 Finnish Darts";
+"FactoryCalculators.SnowboardingTrick" = "🏂 Snowboarding";
+"FactoryCalculators.FinnishRingTossGame" = "⭕️ Ring Toss Game";
+"FactoryCalculators.DOSA" = "🥏 DOSA";

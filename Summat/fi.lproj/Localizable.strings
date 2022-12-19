@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  Summat
+
+  Created by Janne Lehikoinen on 7.4.2022.
+  
+*/
+
+// Calculator list
+"CalculatorList.Title" = "Summat";
+"CalculatorList.UserSections" = "Omat laskimet";
+"CalculatorList.FactorySections" = "Oletuslaskimet";
+"CalculatorList.NoCalculatorsPlaceholder" = "Ei laskimia";
+"CalculatorList.NoUserCalculatorsButton" = "Lisää uusi laskin";
+"CalculatorList.NoFactoryCalculatorsButton" = "Palauta sovelluksen oletuslaskimet";
+"CalculatorList.CopyAction" = "Kopioi";
+"CalculatorList.DeleteAction" = "Poista";
+"CalculatorList.Toolbar.New" = "Uusi";
+"CalculatorList.Toolbar.Results" = "Tulokset";
+"CalculatorList.Toolbar.Settings" = "Asetukset";
+"CalculatorList.DuplicateSuffix" = "kopio";
+
+// Calculator list row
+"CalculatorListRow.NewCalculatorLabel" = "Uusi";
+
+// Calculator edit
+"CalculatorEdit.PlaceholderName" = "Laskimen nimi";
+"CalculatorEdit.TitleNewCalculator" = "Uusi laskin";
+"CalculatorEdit.TitleEditCalculator" = "Muokkaa laskinta";
+"CalculatorEdit.NumberOfButtons %lld" = "Nappien määrä: %lld";
+"CalculatorEdit.SaveButton" = "Tallenna";
+"CalculatorEdit.CancelButton" = "Kumoa";
+
+// Calculator
+"Calculator.FooterButtons.Reset" = "Nollaa";
+"Calculator.FooterButtons.ResetConfirmation" = "Nollaa tulos?";
+"Calculator.FooterButtons.Undo" = "Peru";
+"Calculator.FooterButtons.Save" = "Tallenna";
+"Calculator.FooterButtons.SaveConfirmation" = "Tallenna tulos?";
+"Calculator.Toolbar.Order" = "Järjestä";
+"Calculator.Toolbar.Edit" = "Muokkaa";
+
+// Result list
+"ResultList.Title" = "Tulokset";
+"ResultList.NoResultsPlaceholder" = "Ei tallennettuja tuloksia";
+"ResultList.PlaceholderSaveName" = "Oma tulos";
+"ResultList.DeleteButton" = "Poista";
+
+// Result detail
+"ResultDetail.Header.Name" = "Nimi";
+"ResultDetail.PlaceholderName" = "Lisää nimi";
+"ResultDetail.Header.Result" = "Tulos";
+"ResultDetail.Header.CalculationElements" = "Luvut";
+"ResultDetail.Header.Comment" = "Kommentti";
+"ResultDetail.SaveButton" = "Tallenna";
+
+// Settings
+"Settings.Title" = "Asetukset";
+"Settings.Header.CalculatorSettings" = "Laskimen asetukset";
+"Settings.Header.FactorySettings" = "Sovelluksen asetukset";
+"Settings.Header.AppInfo" = "Sovelluksen tiedot";
+"Settings.ButtonSounds" = "Näppäinten äänet";
+"Settings.HapticFeedback" = "Värinä";
+"Settings.CalculatorEntranceAnimation" = "Sisääntuloanimaatio";
+"Settings.Version" = "Versio";
+"Settings.FactoryRestoreButton" = "Palauta sovelluksen oletuslaskimet";
+"Settings.FactoryRestoreConfirmationDescription" = "Palauta laskimet?";
+"Settings.FactoryRestoreConfirmationButton" = "Palauta";
+
+// Factory calculators
+"FactoryCalculators.Fortuna" = "✨ Fortuna";
+"FactoryCalculators.ThrowThePigGame" = "🐖 Heitä sikaa";
+"FactoryCalculators.FinnishDarts" = "🎯 Tikka";
+"FactoryCalculators.SnowboardingTrick" = "🏂 Lumilautailu";
+"FactoryCalculators.FinnishRingTossGame" = "⭕️ Renkaanheittopeli";
+"FactoryCalculators.DOSA" = "🥏 DOSA";
